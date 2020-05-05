@@ -1,0 +1,6 @@
+rootProject.name = 'graphecule-parent'
+
+include ':graphecule-common'
+include ':graphecule-client'
+include ':Sample'
+
