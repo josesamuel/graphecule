@@ -6,6 +6,8 @@ Graphecule is a GraphQL **client** library which can **auto generate** client **
 
 The generated client Kotlin code can then be used like a normal Kotlin library performing all the query/mutation operations exposed by the original GraphQL API. All these operations can be done as if calling a normal Kotlin call, without having to know anything about underlying GraphQL or Networking.
 
+![](http://josesamuel.com/graphecule/graphecule.jpg)
+
 ### Why Graphecule?
 
 * Auto generates entire GraphQL client model in Kotlin
